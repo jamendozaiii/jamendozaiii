@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm John! 👋 
 
-<!--
-**jamendozaiii/jamendozaiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst & Process Automation Specialist**
 
-Here are some ideas to get you started:
+I specialize in building automated data pipelines and analytical tools that eliminate inefficiencies. Rooted in the Kaizen philosophy of continuous improvement, I focus on transforming raw, messy data into streamlined, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Explore my portfolios by role:**
+* [Data Engineering](data-engineer.md)
+* [Data Analytics](data-analyst.md)
+* [Data Science](data-scientist.md)
+* [Data Stewardship](data-steward.md)
+
+### 🚀 Featured Work
+* **[Cierge Tech](link):** Pro-bono data science and process improvement consulting initiative for non-profit organizations.
+* **[Ebisu!](link):** A statistical tracking and prediction model utilizing data analysis to identify trends and probabilities.
+
+### 🍳 Beyond the Data
+When I'm not optimizing queries or automating workflows, I'm usually in the kitchen experimenting with Asian-Western fusion cooking techniques.
