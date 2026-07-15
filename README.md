@@ -1,6 +1,6 @@
 # Hi, I'm John! 👋 
 
-**Data Analyst & Process Automation Specialist**
+**Data Professional & Process Automation Specialist**
 
 I specialize in building automated data pipelines and analytical tools that eliminate inefficiencies. Rooted in the Kaizen philosophy of continuous improvement, I focus on transforming raw, messy data into streamlined, actionable insights.
 
